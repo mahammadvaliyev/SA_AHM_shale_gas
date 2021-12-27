@@ -14,3 +14,4 @@ Historically, History Matching has been one of the most widely used and pragmati
 ## Files
 - project presentation
 - project report
+- CMG DAT files (base and alternative models for shale gas reservoir)
