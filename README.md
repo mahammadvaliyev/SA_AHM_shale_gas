@@ -8,4 +8,7 @@ Historically, History Matching has been one of the most widely used and pragmati
 
 ## Workflow
 
+![workflow](https://user-images.githubusercontent.com/68789630/147454653-ee1340f1-b02c-43fc-81ba-fcebfd954f72.jpg)
+
+
 ## Files
