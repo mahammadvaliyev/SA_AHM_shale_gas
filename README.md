@@ -10,7 +10,7 @@ Historically, History Matching has been one of the most widely used and pragmati
 
 ![workflow](https://user-images.githubusercontent.com/68789630/147454653-ee1340f1-b02c-43fc-81ba-fcebfd954f72.jpg)
 
-
+## Base and alternative models
 
 ![models](https://user-images.githubusercontent.com/68789630/147497087-e4f79ee5-55d1-4764-8ff5-03d33f2c6202.jpg)
 
